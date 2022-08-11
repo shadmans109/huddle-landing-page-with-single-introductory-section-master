@@ -1,0 +1,107 @@
+body{
+   background-color: hsl(257, 40%, 49%);
+   margin: 0;
+   font-family: Open Sans, sans-serif;
+   font-weight: 400;
+   color: white;
+   
+}
+h1{
+    font-weight: 400, 600;
+   font-family: 'Poppins', sans-serif;
+   display: block;
+  
+
+   
+
+}
+
+
+.container{
+    position: relative;
+}
+.bg-svg{
+    margin: 0;
+}
+.illustration{
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+.h2-tag1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    left:800px ;
+    top: 200px ;
+}
+.h2-tag2{
+    margin-top: 10px;
+    margin-bottom: 0;
+    position: absolute;
+    left:800px ;
+    top: 250px ;
+}
+.description{
+    position: absolute;
+    left:800px ;
+    top: 300px ;
+    width: 30%;
+}
+.btn {
+    background: E8F9FD;
+    background-image: -webkit-linear-gradient(top, E8F9FD, E8F9FD);
+    background-image: -moz-linear-gradient(top, E8F9FD, E8F9FD);
+    background-image: -ms-linear-gradient(top, E8F9FD, E8F9FD);
+    background-image: -o-linear-gradient(top, E8F9FD, E8F9FD);
+    background-image: linear-gradient(to bottom, E8F9FD, E8F9FD);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: hsl(300, 69%, 71%);
+    font-size: 20px;
+    padding: 13px 35px 13px 35px;
+    text-decoration: none;
+    position: absolute;
+    left:800px ;
+    top: 400px ;
+   
+  }
+  
+  .btn:hover {
+    background: hsl(300, 69%, 71%);
+    background-image: -webkit-linear-gradient(top, hsl(300, 69%, 71%), hsl(300, 69%, 71%));
+    background-image: -moz-linear-gradient(top, hsl(300, 69%, 71%), hsl(300, 69%, 71%));
+    background-image: -ms-linear-gradient(top, hsl(300, 69%, 71%), hsl(300, 69%, 71%));
+    background-image: -o-linear-gradient(top, hsl(300, 69%, 71%), hsl(300, 69%, 71%));
+    background-image: linear-gradient(to bottom, hsl(300, 69%, 71%), hsl(300, 69%, 71%));
+    text-decoration: none;
+    color: white;
+  }
+.fa-brands{
+   
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px 5px;
+    
+}
+.icon1{
+    position: absolute;
+    top: 730px;
+    left: 1000px;
+}
+.icon2{
+    position: absolute;
+    top: 730px;
+    left: 1050px;
+}
+.icon3{
+    position: absolute;
+    top: 730px;
+    left: 1100px;
+}
+
+
